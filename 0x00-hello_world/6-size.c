@@ -1,8 +1,8 @@
 #include<stdio.h>
-*//
-* main - Entry point
+/**
+*main - Entry point
 *
-* Return: Always 0 (Success)
+*Return: Always 0 (Success)
 */
 int main(void)
 {
@@ -12,4 +12,4 @@ int main(void)
 	printf("size of a long long int: %d byte(s)\n", size of (long long int));
 	printf("size of a float: %d byte(s)\n", size of (float));
 	return (0);
-}
+
